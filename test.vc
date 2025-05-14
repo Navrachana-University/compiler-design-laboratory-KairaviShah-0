@@ -1,0 +1,11 @@
+vibecheck
+goat lit #_count;
+slaps ghost #_main() {
+    #_count = 3;
+    keepit100 (#_count > 0) {
+        spillthetea #_count;
+        #_count = #_count - 1;
+    }
+    spillthetea "Bet!";
+}
+yeet

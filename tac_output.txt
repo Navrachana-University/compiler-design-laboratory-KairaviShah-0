@@ -1,0 +1,15 @@
+main:
+count = 3
+L0:
+t0 = count > 0
+if t0 goto L1
+goto L2
+L1:
+t1 = count
+print t1
+t2 = count - 1
+count = t2
+goto L0
+L2:
+print "Bet!"
+ret
